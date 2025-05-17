@@ -1,4 +1,4 @@
-# Hướng Dẫn Sử Dụng Phần Mềm Quản Lý Khách Hàng VTECHCOM
+# Hướng Dẫn Sử Dụng Phần Mềm Quản Lý Khách Hàng VNPT IT
 
 <img src="images/logo.jpg" alt="Logo Công Ty" width="128" height="128">
 
