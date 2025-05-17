@@ -1,6 +1,7 @@
 # Hướng Dẫn Sử Dụng Phần Mềm Quản Lý Khách Hàng VTECHCOM
 
-<img src="images/logo.jpg" alt="Logo Công Ty" width="64" height="64">
+<img src="images/logo.jpg" alt="Logo Công Ty" width="128" height="128">
+
 _Chào mừng bạn đến với tài liệu hướng dẫn sử dụng phần mềm Quản Lý Khách Hàng!_
 
 > **Mục đích**: Tài liệu này giúp bạn nhanh chóng làm quen với các tính năng chính, từ cài đặt đến sử dụng nâng cao.
@@ -31,6 +32,7 @@ Phần mềm Quản Lý Khách Hàng giúp doanh nghiệp quản lý thông tin 
 - Tích hợp báo cáo mạnh mẽ.
 
 ![Giao diện chính](images/main-interface.jpg)
+
 _Hình 1: Giao diện chính của phần mềm._
 
 ---
