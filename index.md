@@ -1,4 +1,4 @@
-# Hướng Dẫn Sử Dụng Phần Mềm Quản Lý Khách Hàng
+# Hướng Dẫn Sử Dụng Phần Mềm Quản Lý Khách Hàng VTECHCOM
 
 ![Logo Công Ty](images/logo.png)
 *Chào mừng bạn đến với tài liệu hướng dẫn sử dụng phần mềm Quản Lý Khách Hàng!*
